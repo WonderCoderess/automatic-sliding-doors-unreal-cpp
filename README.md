@@ -2,8 +2,6 @@
 
 A two-panel automatic sliding gate created in Unreal Engine as part of the **LABA IT — Unreal Engine — C++** course. This repository showcases the mechanic through C++ source code, a demonstration video, and editor and gameplay screenshots.
 
-**Author:** Joanna Strzeszewska
-
 ## Demo Video
 
 [▶ Watch the demo on YouTube](https://youtu.be/tFfd2vkTtos)
