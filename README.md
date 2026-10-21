@@ -113,7 +113,6 @@ If the player pawn is null, it is treated as outside the trigger rather than ret
 | `screenshots/Screenshot-2.png` | Blueprint component and mesh configuration |
 | `screenshots/Screenshot-3.png` | Gate placement and trigger area |
 | `screenshots/Screenshot-4.png` | Open gate during gameplay |
-| `video-showcase.txt` | Demonstration video link |
 
 This is a **source-code and visual showcase**, not a complete Unreal Engine project. It does not include a `.uproject` file, the Blueprint asset, the arena level, or the external mesh, material, texture, and audio files. Cloning this repository alone does not provide a runnable project; integrate the source and obtain the dependencies as described above.
 
