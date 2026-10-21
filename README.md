@@ -24,11 +24,11 @@ A two-panel automatic sliding gate created in Unreal Engine as part of the **LAB
 
 ### Gate Placement and Detection Area
 
-![Sliding gate and detection box in the arena](screenshots/Screenshot-3.png)
+![Sliding gate and detection box in the arena](Screenshots/Screenshot-3.png)
 
 ### Open Gate During Gameplay
 
-![Player approaching the open sliding gate](screenshots/Screenshot-4.png)
+![Player approaching the open sliding gate](Screenshots/Screenshot-4.png)
 
 ## C++ Implementation
 
@@ -44,7 +44,7 @@ The mechanic is implemented in [`ASlidingGate`](SlidingGate.h), with behavior de
 | `RightDoor` | Movable right panel |
 | `TriggerBox` | Query-only detection area overlapping the Pawn channel |
 
-![BP_SlidingGate component hierarchy and door mesh configuration](screenshots/Screenshot-2.png)
+![BP_SlidingGate component hierarchy and door mesh configuration](Screenshots/Screenshot-2.png)
 
 ### Movement
 
