@@ -1,6 +1,6 @@
 # Automatic Sliding Doors — Unreal Engine C++
 
-A two-panel automatic sliding gate created in Unreal Engine as part of the **LABA IT — Unreal Engine — C++** course. This repository showcases the mechanic through C++ source code, a demonstration video, and editor and gameplay screenshots.
+A two-panel automatic sliding gate created in Unreal Engine. This repository showcases the mechanic through C++ source code, a demonstration video, and editor and gameplay screenshots.
 
 ## Demo Video
 
@@ -66,7 +66,7 @@ If the player pawn is null, it is treated as outside the trigger rather than ret
 
 ## Exposed Settings
 
-![Gate settings and assigned opening and closing sounds](screenshots/Screenshot-1.png)
+![Gate settings and assigned opening and closing sounds](Screenshots/Screenshot-1.png)
 
 | Property | Meaning | C++ default | Configuration shown above |
 |---|---|---|---|
