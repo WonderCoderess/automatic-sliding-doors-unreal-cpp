@@ -116,3 +116,16 @@ If the player pawn is null, it is treated as outside the trigger rather than ret
 
 This is a **source-code and visual showcase**, not a complete Unreal Engine project. It does not include a `.uproject` file, the Blueprint asset, the arena level, or the external mesh, material, texture, and audio files. Cloning this repository alone does not provide a runnable project; integrate the source and obtain the dependencies as described above.
 
+## Assignment Feedback and Planned Improvements
+
+### Assignment Feedback (26/11/2026)
+- Positive feedback on the C++ implementation.
+- Good use of configurable parameters.
+- Effective use of timers.
+
+### Planned Improvements (TODO)
+- [ ] **Optimize Door Movement**
+  - Update the door position only while the door is actively opening or closing.
+  - Avoid unnecessary position updates every frame when the door is stationary.
+  - Simplify the existing implementation and improve performance.
+
